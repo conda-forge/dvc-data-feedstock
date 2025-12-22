@@ -25,7 +25,7 @@ requirements:
     - attrs >=21.3.0
     - dictdiffer >=0.8.1
     - diskcache >=5.2.1
-    - dvc-objects >=5.2,<6
+    - dvc-objects >=5.2.0,<6
     - fsspec >=2024.2.0
     - funcy >=1.14
     - pygtrie >=2.3.2
